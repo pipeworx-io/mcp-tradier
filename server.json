@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/tradier",
   "title": "Tradier",
   "description": "Tradier MCP — stock & options market data via the Tradier Brokerage API",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/tradier",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-tradier",
