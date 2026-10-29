@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/tradier",
   "title": "Tradier",
-  "description": "Tradier MCP — stock & options market data via the Tradier Brokerage API",
-  "version": "0.1.2",
+  "description": "Tradier MCP — stock & options market data via the Tradier Brokerage API (tradier.com /…",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/tradier",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-tradier",
